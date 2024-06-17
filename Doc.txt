@@ -1,0 +1,1 @@
+On this version project work without any Context or Reduce, only pass the props in multiple components to up and down, for show that this way is also possible, but not so practice and good.
